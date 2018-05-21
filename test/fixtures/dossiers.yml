@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nom: MyString
+  prenom: MyString
+  datenaisance: 2018-05-17
+  sexe: 
+  groupe_sanguin: 
+  adresse: MyText
+  telephone: 1
+  profession: MyString
+  statut_matrimonial: 
+  nationalite: 
+  lieu_de_naissance: 
+
+two:
+  nom: MyString
+  prenom: MyString
+  datenaisance: 2018-05-17
+  sexe: 
+  groupe_sanguin: 
+  adresse: MyText
+  telephone: 1
+  profession: MyString
+  statut_matrimonial: 
+  nationalite: 
+  lieu_de_naissance: 

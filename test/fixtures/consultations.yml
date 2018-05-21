@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  general: 1
+  oreilles_nez_gorge: 1
+  neurologique_musculaire: 1
+  gastro_intestinale: 1
+
+two:
+  general: 1
+  oreilles_nez_gorge: 1
+  neurologique_musculaire: 1
+  gastro_intestinale: 1
